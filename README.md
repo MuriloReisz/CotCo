@@ -26,14 +26,14 @@ COT&CO
 
 -Detalhamento de frameworks/bibliotecas: 
 
-  Dentro do nosso projeto vamos usar um modelo de classificação para com que obtenhamos um resultado apurado na busca para o melhor fornecedor possível de forma conseguindo achar o fornecedor com o melhor valor, com   a   melhor entrega e com a maior qualidade, esse seria o ponto central do nosso projeto, com que uma I.A auxilie dentro dessa sua busca e entenda a sua necessidade assim tendo o retorno do melhor fornecedor para     cada       usuário. 
-
-  Na primeira apresentação do projeto estipularmos utilizar somente o scikit-learn por ser um MVP, estudando mercado e a proposta projeto vamos seguir com outras abordagens. Utilizaremos o framework do TensorFlow      para   fazer alguns testes de desenvolvimento junto com o Keras para auxiliar dentro do nosso processo de aprendizado de máquina, utilizando esses dois e comparando com o scikit-learn para vermos em qual obtemos     um resultado   mais satisfatório, levando em consideração que podemos mesclar os dois.  
+  Dentro do nosso projeto vamos usar um modelo de classificação para com que obtenhamos um resultado apurado na busca para o melhor fornecedor possível de forma conseguindo achar o fornecedor com o melhor valor, com a melhor entrega e com a maior qualidade, esse seria o ponto central do nosso projeto, com que uma I.A auxilie dentro dessa sua busca e entenda a sua necessidade assim tendo o retorno do melhor fornecedor para cada usuário. 
   
-  Agora dentro dessa altura do projeto estamos analisando os fornecedores e construindo nosso modelo analítico, fazendo uma análise concreta dos fornecedores para podermos classificar e entregar para o usuário os      melhores fornecedores para suas devidas solicitações, justamente usando pandas entre outras bibliotecas para auxiliar dentro da nossa análise exploratória de forma consolidando nosso projeto.
+  Agora dentro dessa altura do projeto estamos analisando os fornecedores e construindo nosso modelo analítico, fazendo uma análise concreta dos fornecedores para podermos classificar e entregar para o usuário os melhores fornecedores para suas devidas solicitações, justamente usando pandas entre outras bibliotecas para auxiliar dentro da nossa análise exploratória de forma consolidando nosso projeto.
+
+   No final das contas aptamos por simplesmente utilizar um processo de classificação com lógica usando unico e exclusicamente o pandas e dessa forma conseguimos de uma forma inteligente e unica retornar para o cliente os itens quais são desejados para especificas solicitações.
 
 -Como os conceitos de ML/IA serão utilizados? 
 
-  Acreditamos que com essas ferramentas e até chegando a usar algumas API’s para auxiliar dentro de nossa I.A obteremos um resultado satisfatório e consistente dentro de nosso projeto para que obtenhamos a melhor '    segmentação de fornecedores para nossos usuários. 
-  Iremos aplicar os conceitos de ML e IA dentro do nosso projeto de uma forma auxiliando o fator principal da funcionalidade do nosso aplicativo que visa realizar a segmentação e classificação dentro de todas as       alternativas de produtos.
+  Acreditamos que com essas ferramentas e até chegando a usar algumas API’s para auxiliar dentro de nossa I.A obteremos um resultado satisfatório e consistente dentro de nosso projeto para que obtenhamos a melhor ' segmentação de fornecedores para nossos usuários. 
+  Iremos aplicar os conceitos de ML e IA dentro do nosso projeto de uma forma auxiliando o fator principal da funcionalidade do nosso aplicativo que visa realizar a segmentação e classificação dentro de todas as alternativas de produtos.
 
