@@ -10,30 +10,38 @@ Entrega da sprint 3 | Disruptive Architectures: IOT, IOB & IA
 
 COT&CO
 
--Visão Geral:
+-Visão Geral
 
-  Cot&Co é um software projetado para simplificar e otimizar o processo de compras, ajudando você a escolher os melhores fornecedores com base em critérios chave como tempo de entrega, preço e qualidade dos produtos.
+  Desenvolver Cot&Co foi um desafio que nos proporcionou uma oportunidade única de aplicar conhecimentos teóricos em um contexto prático e de grande relevância para a otimização de processos empresariais. Este software foi projetado com o objetivo de transformar e agilizar o processo de compras, permitindo que as empresas escolham os melhores fornecedores com base em critérios cruciais como tempo de entrega, preço e qualidade dos produtos.
 
--Funcionalidades Principais:
+-Processo de Desenvolvimento
 
-  Priorização Inteligente de Fornecedores: Cot&Co utiliza algoritmos avançados para analisar e classificar os fornecedores com base no tempo de entrega, preço competitivo e histórico de qualidade dos produtos.
+  Priorização Inteligente de Fornecedores
+O núcleo do nosso projeto reside na priorização inteligente de fornecedores. Utilizamos algoritmos avançados para analisar e classificar os fornecedores, considerando variáveis como tempo de entrega, preço competitivo e histórico de qualidade dos produtos. Esta abordagem nos obrigou a mergulhar profundamente em técnicas de machine learning e análise de dados, proporcionando um aprendizado robusto sobre como utilizar essas ferramentas para resolver problemas complexos do mundo real.
 
-  Comparação de Ofertas: Com Cot&Co, você pode comparar facilmente as ofertas de diferentes fornecedores, garantindo que você escolha a opção mais vantajosa para sua empresa.
+-Comparação de Ofertas
 
-  Análise de Qualidade: O sistema inclui ferramentas para avaliar a qualidade dos produtos oferecidos pelos fornecedores, ajudando você a tomar decisões informadas.
+  A funcionalidade de comparação de ofertas do Cot&Co foi concebida para simplificar o processo de decisão. Durante o desenvolvimento, aprendemos a importância de construir uma interface de usuário intuitiva e eficiente, que permitisse aos usuários comparar facilmente as ofertas de diferentes fornecedores e selecionar a opção mais vantajosa para suas necessidades específicas. Este processo envolveu um equilíbrio delicado entre a complexidade dos algoritmos de back-end e a simplicidade do front-end.
 
-  Integração com Sistemas de Compras: Cot&Co pode ser integrado aos sistemas de compras existentes em sua empresa, proporcionando uma experiência contínua e eficiente.
+-Análise de Qualidade
+  A análise de qualidade dos produtos foi outro aspecto crítico do nosso projeto. Implementamos ferramentas que avaliam a qualidade dos produtos oferecidos pelos fornecedores, ajudando os usuários a tomar decisões informadas. Este processo nos ensinou a importância da precisão e da confiabilidade dos dados, bem como a necessidade de desenvolver sistemas que possam evoluir e melhorar continuamente com o tempo.
 
--Detalhamento de frameworks/bibliotecas: 
+-Ferramentas e Bibliotecas
 
-  Dentro do nosso projeto vamos usar um modelo de classificação para com que obtenhamos um resultado apurado na busca para o melhor fornecedor possível de forma conseguindo achar o fornecedor com o melhor valor, com a melhor entrega e com a maior qualidade, esse seria o ponto central do nosso projeto, com que uma I.A auxilie dentro dessa sua busca e entenda a sua necessidade assim tendo o retorno do melhor fornecedor para cada usuário. 
-  
-  Agora dentro dessa altura do projeto estamos analisando os fornecedores e construindo nosso modelo analítico, fazendo uma análise concreta dos fornecedores para podermos classificar e entregar para o usuário os melhores fornecedores para suas devidas solicitações, justamente usando pandas entre outras bibliotecas para auxiliar dentro da nossa análise exploratória de forma consolidando nosso projeto.
+  Uso de Pandas e Outras Bibliotecas. Decidimos utilizar bibliotecas como Pandas para realizar a análise exploratória de dados. Pandas nos permitiu manipular grandes volumes de dados de forma eficiente, facilitando a classificação e a segmentação dos fornecedores. Este aspecto do projeto foi crucial para consolidar nosso conhecimento sobre análise de dados e nos mostrou o poder das bibliotecas de código aberto no desenvolvimento de soluções sofisticadas.
 
-   No final das contas aptamos por simplesmente utilizar um processo de classificação com lógica usando unico e exclusicamente o pandas e dessa forma conseguimos de uma forma inteligente e unica retornar para o cliente os itens quais são desejados para especificas solicitações.
+-Integração com Sistemas de Compras
+  A integração do Cot&Co com sistemas de compras existentes foi um desafio técnico significativo. Tivemos que garantir que nosso software pudesse ser facilmente incorporado aos fluxos de trabalho já estabelecidos nas empresas. Este processo nos ensinou a importância da interoperabilidade e da flexibilidade no desenvolvimento de software corporativo.
 
--Como os conceitos de ML/IA serão utilizados? 
+-Conceitos de ML/IA
 
-  Acreditamos que com essas ferramentas e até chegando a usar algumas API’s para auxiliar dentro de nossa I.A obteremos um resultado satisfatório e consistente dentro de nosso projeto para que obtenhamos a melhor ' segmentação de fornecedores para nossos usuários. 
-  Iremos aplicar os conceitos de ML e IA dentro do nosso projeto de uma forma auxiliando o fator principal da funcionalidade do nosso aplicativo que visa realizar a segmentação e classificação dentro de todas as alternativas de produtos.
+  Implementação de Modelos de Classificação
+Para obter resultados precisos na busca pelo melhor fornecedor, implementamos modelos de classificação que utilizam técnicas de machine learning. Este aspecto do projeto foi especialmente desafiador e gratificante, pois nos permitiu aplicar conceitos avançados de IA em um contexto prático. Utilizamos APIs para aprimorar a funcionalidade de nossa IA, garantindo um desempenho consistente e satisfatório.
 
+-Segmentação de Fornecedores
+
+  A segmentação de fornecedores foi um dos principais objetivos do Cot&Co. Aplicamos conceitos de ML para categorizar fornecedores de acordo com critérios específicos, o que ajudou a personalizar as recomendações para cada usuário. Este processo nos mostrou como a inteligência artificial pode ser utilizada para agregar valor real aos processos empresariais, proporcionando insights que seriam impossíveis de obter manualmente.
+
+-Reflexão Final
+
+  O desenvolvimento do Cot&Co foi uma jornada de aprendizado contínuo e de superação de desafios. Cada etapa do projeto, desde a concepção inicial até a implementação final, nos ensinou valiosas lições sobre análise de dados, desenvolvimento de software e aplicação prática de conceitos teóricos. O produto final, um software robusto e eficiente, é um testemunho do poder da colaboração e da inovação tecnológica. Estamos confiantes de que Cot&Co terá um impacto positivo significativo no processo de compras das empresas, ajudando-as a tomar decisões mais informadas e estratégicas.
