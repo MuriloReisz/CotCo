@@ -45,3 +45,6 @@ Para obter resultados precisos na busca pelo melhor fornecedor, implementamos mo
 -Reflexão Final
 
   O desenvolvimento do Cot&Co foi uma jornada de aprendizado contínuo e de superação de desafios. Cada etapa do projeto, desde a concepção inicial até a implementação final, nos ensinou valiosas lições sobre análise de dados, desenvolvimento de software e aplicação prática de conceitos teóricos. O produto final, um software robusto e eficiente, é um testemunho do poder da colaboração e da inovação tecnológica. Estamos confiantes de que Cot&Co terá um impacto positivo significativo no processo de compras das empresas, ajudando-as a tomar decisões mais informadas e estratégicas.
+
+-Video Cot&Co
+  https://youtu.be/I5Y3Oks04Jk?si=pVLqW-jYjxCFBaqi
